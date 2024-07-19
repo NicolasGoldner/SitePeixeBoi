@@ -1,0 +1,27 @@
+-- Tags HTML --
+HEADER: Cria um cabeçalho para a página
+MAIN: Cria um espaço para o conteúdo principal
+FOOTER: Cria um rodapé para a página
+IMG: Cria um espaço para por uma imagem
+DIV: Cria uma divisão(Uma caixa)
+H1: Cria um texto com a maior ordem de prioridade na hierarquia H1 - H6
+H2: Cria um texto com a 2 maior ordem de prioridade na hierarquia H1 - H6
+P: Cria um paragrafo
+A: Cria um HyperLink
+UL: Cria uma lista não ordenada
+LI: Cria os elementos da lista não ordenada
+BUTTON: Cria um botão
+
+-- Tags CSS --
+WIDTH: Altera a largura
+HEIGHT: Altera a altura
+DISPLAY: Altera a direção em que os elementos estão dispostos
+ALIGN-ITEMS: Alinha de acordo com o bloco, ou seja, alinha na verticalmente
+JUSTIFY-CONTENT: Alinha horizontalmente
+
+-- JavaScript --
+O JS foi usado para criar textos a partir do clique de um botão
+
+-- Bootstrap --
+Foi utilizado APENAS para estilizar o botão
+
